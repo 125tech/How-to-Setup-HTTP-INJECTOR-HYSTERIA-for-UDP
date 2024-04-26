@@ -17,3 +17,5 @@ Looking to boost your browsing security and privacy? Consider setting up a custo
 
 Ready to dive in? For detailed instructions, read the full article by visiting the link below.
 
+https://125tech.online/how-to-setup-http-injector-hysteria-for-udp/
+
